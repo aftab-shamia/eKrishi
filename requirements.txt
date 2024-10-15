@@ -44,7 +44,6 @@ pmdarima==2.0.4
 prettytable==3.10.0
 prophet==1.1.5
 pydantic==2.8.2
-pydantic_core==2.20.1PyQt5==5.15.10
 pystan==2.19.1.1
 pytest==8.2.2
 python==3.8.19
