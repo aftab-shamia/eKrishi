@@ -46,7 +46,6 @@ prophet==1.1.5
 pydantic==2.8.2
 pystan==2.19.1.1
 pytest==8.2.2
-python==3.8.19
 pywin32==305.1
 qdldl==0.1.7.post4
 qtconsole==5.5.2
