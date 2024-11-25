@@ -3,7 +3,7 @@ import joblib
 import uvicorn
 import pandas as pd
 from pydantic import BaseModel
-import openpyxl
+
 
 class Market(BaseModel):
     commodity: str
